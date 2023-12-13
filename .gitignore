@@ -130,7 +130,7 @@ venv.bak/
 env2/
 .env4
 env4/
-
+artifacts/
 
 # Spyder project settings
 .spyderproject
